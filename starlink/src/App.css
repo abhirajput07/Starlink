@@ -1,0 +1,12 @@
+.banner-bg{
+    background-image:url("../src/media/banner-bg1.webp");
+}
+.poster-bg{
+    background-image: url("../src/media/poster1.webp");
+}
+.poster2-bg{
+    background-image: url("../src/media/poster2.webp");
+}
+/* .sm-poster2{
+    background-image:url("../src/media/sm-poster2.webp");
+} */
